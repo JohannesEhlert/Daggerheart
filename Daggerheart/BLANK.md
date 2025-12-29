@@ -7,6 +7,8 @@
 ### Experiences
 - **Ersatzteillager**: [[BLANK]] besteht aus einer Vielzahl an Teilen, die zueinander inkompatibel scheinen und zum Teil unnütz wirken. Er kann diese nutzen, um magische Effekte zu kreieren - insbesondere, indem er sich Teile abreißt und diese als Zauberkomponenten eingesetzt, was natürlich Stress verursacht.
 - **Alte Erinnerungen**: Zuweilen hat [[BLANK]] Erinnerungen an die Zeit vor seinem Erwachen, die offenbar in irgendwelchen seiner Bauteile gespeichert und verborgen sind.
+### Beschreibung
+
 ###  Backstory
 ```spoiler-markdown
 - <details><summary> [[BLANK]]s Geburt</summary> [[BLANK]] kam vor ca. 10 Jahren zu Bewusstsein, als ein Haufen an Metallplatten und Keramiken, die erst noch im [[Archiv der Splittertafeln]] hätten aufgehängt werden sollen oder die schlicht zu groß dafür waren und deshalb zwischengelagert wurden, sich scheinbar spontan zu seinem Körper formte. [[BLANKs Ziehvater]] war als [[Hüter des Archivs]] zugegen und erklärte später, er selbst hätte [[BLANK]] erweckt: nicht, um Ruhm dafür einzuheimsen, sondern um [[BLANK]] so vor noch größerem Argwohn und Misstrauen zu schützen.</details>
