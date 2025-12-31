@@ -1,0 +1,1 @@
+Gemischtwarenladen. Gehört [[Luisa]], [[BLANK]]arbeitet dort im Lager 

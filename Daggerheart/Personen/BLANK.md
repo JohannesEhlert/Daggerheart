@@ -8,9 +8,10 @@
 - **Ersatzteillager**: [[BLANK]] besteht aus einer Vielzahl an Teilen, die zueinander inkompatibel scheinen und zum Teil unnütz wirken. Er kann diese nutzen, um magische Effekte zu kreieren - insbesondere, indem er sich Teile abreißt und diese als Zauberkomponenten eingesetzt, was natürlich Stress verursacht.
 - **Alte Erinnerungen**: Zuweilen hat [[BLANK]] Erinnerungen an die Zeit vor seinem Erwachen, die offenbar in irgendwelchen seiner Bauteile gespeichert und verborgen sind.
 ### Beschreibung
+*Ein Quietschen ertönt und die Tür zum Lager von* [[Tante Luisas Allerlei]] *wird etwas unsanft aufgestoßen. Heraus tritt etwas, das auf den ersten Blick wie ein mit Stoff verhüllter Haufen Altmetall auf zwei Beinen aussieht, an den man Arme mit drei Gelenken angeschweißt und eine weiße Maske als Gesicht befestigt hat. In seinen Händen trägt es eine Kiste *
 
 ###  Backstory
-```spoiler-markdown
+``spoiler-markdown
 - <details><summary> [[BLANK]]s Geburt</summary> [[BLANK]] kam vor ca. 10 Jahren zu Bewusstsein, als ein Haufen an Metallplatten und Keramiken, die erst noch im [[Archiv der Splittertafeln]] hätten aufgehängt werden sollen oder die schlicht zu groß dafür waren und deshalb zwischengelagert wurden, sich scheinbar spontan zu seinem Körper formte. [[BLANKs Ziehvater]] war als [[Hüter des Archivs]] zugegen und erklärte später, er selbst hätte [[BLANK]] erweckt: nicht, um Ruhm dafür einzuheimsen, sondern um [[BLANK]] so vor noch größerem Argwohn und Misstrauen zu schützen.</details>
 - <details><summary> Gesellschaftliche Stellung </summary> Auch wenn kaum jemand um das Mysterium von [[BLANK]]s "Geburt" weiß, meiden ihn viele Leute trotzdem: Sie haben Angst vor der alten Magie, die er symbolisiert, auch wenn er zu provisorisch konstruiert aussieht, um diese Befürchtung zu untermauern. So lebt [[BLANK]] als Außenseiter mit [[BLANKs Ziehvater]] und [[BLANKs Ziehmutter]] und hat nur selten andere soziale Kontakte. Zu den beiden hat er allerdings eine sehr gute und vertrauensvolle Beziehung aufgebaut.</details>
 - <details><summary>[[BLANK]]s Beruf</summary> Blank arbeitet im Lager des Ladens von [[BLANKs Ziehmutter]] und kümmert sich um die Logistik und Buchführung.</details>
