@@ -1,0 +1,4 @@
+- [[Hector]] trägt den Ehrentitel [[Hüter des Archivs]], der ausdrückt, dass er sich um das [[Archiv der Splittertafeln]] kümmert. 
+- Er hat außerdem eine kleine Werkstatt neben dem Archiv, in der er aus Resten an Metall und anderen Werkstoffen kleine Gerätschaften wie beispielsweise [[Glimmholzkugeln]] herstellt.
+- [[Hector]] ist bekannt als Erschaffer und Ziehvater von [[Sunny]] sowie als Tüftler, dessen Kreationen man in [[Tante Luisas Allerlei]] kaufen kann.
+- Mit [[Luisa]] ist er liiert.

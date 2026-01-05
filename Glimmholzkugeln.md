@@ -1,0 +1,1 @@
+Aus Glas und Metall geformte Kugel, in deren inneren ein kleines Stück [[Vrancâ-Baum|Glimmholz]] platziert und entzündet wird, dass dank seiner hohen Energiedichte mehrere Tage hell glüht und so die Häuser in [[Teppetû]] erleuchten kann. Über ein Ventil an der Seite kann die Grischluft

@@ -1,1 +1,1 @@
-Gemischtwarenladen. Gehört [[Luisa]], [[BLANK]]arbeitet dort im Lager 
+Gemischtwarenladen. Gehört [[Luisa]], [[Sunny]]arbeitet dort im Lager 
