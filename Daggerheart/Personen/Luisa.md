@@ -1,1 +1,1 @@
- Frau von [[BLANKs Ziehvater]], Ziehmutter von [[Sunny]], Besitzerin des Gemischtwarenladens [[Tante Luisas Allerlei]]
+ Frau von [[Hector]], Ziehmutter von [[Sunny]], Besitzerin des Gemischtwarenladens [[Tante Luisas Allerlei]]
