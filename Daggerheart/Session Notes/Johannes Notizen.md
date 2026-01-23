@@ -41,3 +41,11 @@
 - Remos kennt diesen Ort von einem seiner "Ausflüge" und bahnt uns geschickt den Weg
 - Kommen zu einem Gewässer; [[Leuchtkröten]] erhellen die Gegend
 - Einige Frekits lauern dort - zusammen mit einer Brutmutter/Frekueen. Im Tümpel treibt eine Leiche
+- Wir bekämpfen und besiegen die Frekits
+- Die Leiche - eine Halbelfe - hat einen Dolch im Rücken, den Sunny rauszieht. 
+- Dabei schneidet er sich und etwas seltsames passiert mit der Wunde, etwas scheint fast darin einzudringen - in die Seele?
+- Der Dolch überträgt einen Fluch
+- Auf dem Dolch ist das alte Symbol der [[Firensis-Familie]], das vor langer Zeit von [[Themea Firensis]] abgeschafft wurde, als die Familie in [[Teppetû]] noch sehr unbeliebt war. Damals hatte Themea ihren zukünftigen Mann, den Großvater von Elowin und Remos, kennengelernt, und er hat diesen Sinneswandel ausgelöst
+- Der [[Firensis-Dolch]] ist eine besondere Waffe
+- Remos erhält mit Magie eine Vision vom Tod der Leiche: Sie trägt eine Box mit zwei dicken schwarzen Blutegeln und einer Spritze darin. Hinter ihr: Ein männlicher Zwerg mit dicker Nase und (aufgesetzt) freundlichem Blick, der sie dann aber hinterrücks tötet. Die Kiste mit den Blutegeln verbleibt im Wasser - und befindet sich unter Wasser
+- Als Elowin ihre Waffe versucht zu befragen, was es mit dem Dolch auf sich hat, wendet sich die Waffe - als Demonstration von Macht und Überlegenheit - gegen sie und sticht sie in den Bauch
