@@ -37,3 +37,6 @@
 ## Szene 6 - In den [[Atemgärten]]
 - Weg durch die Gassen
 - Es wird dunkel, in den Atemgärten gibt es kein Licht
+- seltsame Feuchtigkeit liegt in der Luft, die belebend wirkt
+- Remos kennt diesen Ort von einem seiner "Ausflüge" und bahnt uns geschickt den Weg
+- Kommen zu einem Gewässer; [[Leuchtkröten]] erhellen die Gegend
