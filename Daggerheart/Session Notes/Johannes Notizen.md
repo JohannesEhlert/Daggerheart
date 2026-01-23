@@ -40,3 +40,4 @@
 - seltsame Feuchtigkeit liegt in der Luft, die belebend wirkt
 - Remos kennt diesen Ort von einem seiner "Ausflüge" und bahnt uns geschickt den Weg
 - Kommen zu einem Gewässer; [[Leuchtkröten]] erhellen die Gegend
+- Einige Frekits lauern dort - zusammen mit einer Brutmutter/Frekueen. Im Tümpel treibt eine Leiche
