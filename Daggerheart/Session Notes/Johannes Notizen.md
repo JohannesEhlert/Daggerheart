@@ -1,2 +1,3 @@
 # Session 1
 *23.01.2026, 20:15*
+- Wir hätten SoundTale schon vorab installieren sollen...
