@@ -1,0 +1,3 @@
+- Kitari
+- Nimmt auch an der [[Kapkéhz Mahrcî|Elixierbergung]] teil
+- Bekannt für ihren Geruchssinn, mit dem sie angeblich auch Artefakte riechen kann
