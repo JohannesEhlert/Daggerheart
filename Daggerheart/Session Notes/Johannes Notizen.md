@@ -31,3 +31,9 @@
 - Spitznamen: Winny und Remilein
 - [[Elowin]] besteht darauf, dass die Laternen gleich sein müssen, was kaum möglich ist, aber [[Remos]] kann sie davon überzeugen, dass die Laternen übereinstimmen
 - Wir lassen die Laternen steigen und wünschen uns jede:r still etwas
+- Während [[Lisha]], Sunny und Remos zu den [[Atemgärten]] aufbrechen, kehrt Elowin nach Hause zurück
+- Lisha kontaktiert ihr Buch, das ihr rät, sofort zu den Atemgärten aufzubrechen: Abenteuer warte und Blut sei schon vergossen
+- Remos läuft Elowin hinterher und überzeugt sie, doch mit uns zu kommen, um Lisha zu helfen
+## Szene 6 - In den [[Atemgärten]]
+- Weg durch die Gassen
+- Es wird dunkel, in den Atemgärten gibt es kein Licht
