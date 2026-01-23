@@ -1,0 +1,2 @@
+- Leben an Tümpeln
+- Leuchten durch die Eier von Glühwürmchen: Symbiotische Beziehung, indem die Glühwürmchen Beute für die Kröten anlocken
