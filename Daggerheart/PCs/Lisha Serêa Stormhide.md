@@ -26,4 +26,4 @@ Die Gottheit, die dahintersteckt, heißt **Veto**. Wofür diese Gottheit steht o
 
 Lisha ist neugierig, was das Buch ihr bieten kann – aber gleichzeitig auch etwas misstrauisch, weil sie natürlich auch vor alten Gottheiten gewarnt wurde. Wenn sie merkt, dass die Sachen funktionieren und ihr Spaß (und Adrenalin) bringen, wird sie der Gottheit vermutlich immer mehr verfallen. Sie wird zumindest zu Anfang auch noch versuchen geheim zu halten wie “abhängig” sie tatsächlich von dem Buch ist.
 
-Lim hat von dem Buch ein wenig erzählt bekommen, es aber nie gesehen. 0-lli und Lua wissen von dem Buch und haben beide Warnungen ausgesprochen, da sie dem Buch nicht trauen. Sie wissen auch, dass es Lisha geraten hat fortzugehen.
+Lim hat von dem Buch ein wenig erzählt bekommen, es aber nie gesehen. Olli und Lua wissen von dem Buch und haben beide Warnungen ausgesprochen, da sie dem Buch nicht trauen. Sie wissen auch, dass es Lisha geraten hat fortzugehen.
