@@ -1,7 +1,7 @@
 
 # Szenen
 
-## 1. Sunnys Einführung
+## 1. [[Sunny]] Einführung
 
 - Traum / Vision? Nichts sehen, Wärme spüren
 - Unterhaltung w / m Stimme in unbekannter Sprache (alt?)
@@ -27,7 +27,7 @@
 - Telrim: ebenfalls Teilnehmer an [[Kapkéhz Mahrcî|Elixierbergung]], hofft das er in ein Team mit Remos und Elowin kommt, bei erfolgreicher Rückkehr: Verlobung mit Elowin
 - Äußert sich herablassend über Lisha
 
-## 4. Lishas Einführung
+## 4. [[Lisha Serêa Stormhide|Lisha]] Einführung
 
 - ihre Eltern hatten sie eingeschlossen, die Tage zuvor viel Diskussion / Streit wegen der Teilnahme
 - Treffen: [[Zilvorâ]], bisher unbekannt, nennt aber ihren Namen
