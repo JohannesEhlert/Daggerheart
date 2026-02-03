@@ -93,7 +93,7 @@
 ## [[Leuchtkröten]] 
 **Woher:** Elowins Mutter Zamaia
 **Wann:** Session 1, Kurz vor Beginn des Festes auf dem Platz der Rückkehr
-**Info:** Leuchtkröten und Glühwürmchen bilden eine Symbiose. Glühwürmchen legen ihre leuchtenden Euer auf den Rücken der Leuchtkröte ab. Dort sind sie geschützt und das Leuchten zieht Insekten als Futter für die Kröte an. Wenn das jedoch nicht mehr reicht, frisst die Leuchtkröte ggfs. auch die Glühwürmchen
+**Info:** Leuchtkröten und Glühwürmchen bilden eine Symbiose. Glühwürmchen legen ihre leuchtenden Eier auf den Rücken der Leuchtkröte ab. Dort sind sie geschützt und das Leuchten zieht Insekten als Futter für die Kröte an. Wenn das jedoch nicht mehr reicht, frisst die Leuchtkröte ggfs. auch die Glühwürmchen
 
 ## [[Frêkit]]
 **Woher:** Sunnys Wissensschatz

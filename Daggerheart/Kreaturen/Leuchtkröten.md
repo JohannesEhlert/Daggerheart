@@ -1,2 +1,3 @@
 - Leben an Tümpeln
 - Leuchten durch die Eier von Glühwürmchen: Symbiotische Beziehung, indem die Glühwürmchen Beute für die Kröten anlocken
+- wenn Futter knapp frisst die Leuchtkröte ggfs. auch die Glühwürmchen / Eier
