@@ -57,4 +57,9 @@
   > die anderen Schwestern waren nicht in der Lage, die Macht innezuhalten. [...] Aber dieses Kind ist es womöglich - und wenn nicht, finden wir eine neue
   > Andere Gestalt: Und was ist mit dem Jungen?
   > Mutter: [Das wird sich zeigen] 
-- 
+- Elowin berichtet (im Fieber), dass ihre Mutter sie dazu bringen wollte, Remos zu opfern
+## Szene 2 - Untersuchungen
+- [[Remos]] birgt eine Kiste mit zwei Blutegeln und einer Spritze
+- [[Lisha Serêa Stormhide|Lisha]] erinnert sich an ein okkultes Buch, dass
+	- [[Frêkit]]-Blut für Rituale genutzt wurde, indem es injiziert wird
+	- Die Blutegel sind [[Ghézno Egel]], die dazu genutzt werden können, Leute von Giften, Sünden und Unreinheiten zu befreien
