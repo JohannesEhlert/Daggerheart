@@ -49,3 +49,12 @@
 - Der [[Firensis-Dolch]] ist eine besondere Waffe
 - Remos erhält mit Magie eine Vision vom Tod der Leiche: Sie trägt eine Box mit zwei dicken schwarzen Blutegeln und einer Spritze darin. Hinter ihr: Ein männlicher Zwerg mit dicker Nase und (aufgesetzt) freundlichem Blick, der sie dann aber hinterrücks tötet. Die Kiste mit den Blutegeln verbleibt im Wasser - und befindet sich unter Wasser
 - Als Elowin ihre Waffe versucht zu befragen, was es mit dem Dolch auf sich hat, wendet sich die Waffe - als Demonstration von Macht und Überlegenheit - gegen sie und sticht sie in den Bauch
+# Session 2
+## Szene 1 - Rückblende Elowins Vergangenheit
+- In ihrer Kindheit
+- Anwesend: Ihre Mutter und eine weitere Gestalt und schwarzen Gewändern
+- Mutter trägt Elowins Waffe in Tüchern eingewickelt. Sie spricht:
+  > die anderen Schwestern waren nicht in der Lage, die Macht innezuhalten. [...] Aber dieses Kind ist es womöglich - und wenn nicht, finden wir eine neue
+  > Andere Gestalt: Und was ist mit dem Jungen?
+  > Mutter: [Das wird sich zeigen] 
+- 
