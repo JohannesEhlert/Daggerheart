@@ -73,4 +73,10 @@
 ## Szene 5 - Am [[Platz der Rückkehr]]
 - etwa ... andere [[Kapkéhz Dim]], darunter auch [[Telrim Galoore]], [[Mitel Wedorring]] und eine Riesin, die [[Remos]] bemerkt. Außerdem sieht er seinen kleinen Cousin
 - [[Serêa Talmor]] hält eine Rede
-- 
+- Anschließend werden die Gruppen (insg. 8) eingeteilt:
+	- [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]] kommen in Gruppe 1 kommen; [[Kwêa Timpól]] in Gruppe 1 kommen hätte sollen: aber niemand trat vor - vermutlich war dies die Tote.
+	- [[Remos]] kommt in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
+	- Weitere Gruppe: [[Gio Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothé Figure]]
+	- Weitere Gruppe komplett aus Fungril (Fuego-Kollektiv)
+	- Weitere Gruppe aus 5 Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**), inkl. [[Teperes]]
+	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe
