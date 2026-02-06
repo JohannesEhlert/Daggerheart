@@ -66,4 +66,4 @@
 - Lisha möchte nicht, dass die Ältesten vom Tod der Halbelfe erfahren, daher bringen wir sie heimlich zur [[Senke der Ahnen]], wo Elowin jemanden kennt, der uns helfen könnte, sie - ohne viel Fragen - zu begraben
 ## Szene 3 - Am Tempel
 - kleiner Tempel, darin ein Ork ([[Koruk]]) in heruntergekommener aber religiöser Kleidung, der über eine Leiche gebeugt ist, die bald beerdigt werden soll
-- Elowin geht mit Remos vor, um die Modalitäten zu klären.
+- Elowin geht mit Remos vor, um die Modalitäten zu klären. [[Koruk]] ist - nachdem Elowin ihre Autorität eingesetzt hat - bereit, uns zu helfen und Stillschweigen zu wahren, sowohl gegenüber den Firensis als auch gegenüber den Ältesten.
