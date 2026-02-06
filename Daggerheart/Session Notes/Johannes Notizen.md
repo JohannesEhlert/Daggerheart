@@ -74,9 +74,9 @@
 - etwa ... andere [[Kapkéhz Dim]], darunter auch [[Telrim Galoore]], [[Mitel Wedorring]] und eine Riesin, die [[Remos]] bemerkt. Außerdem sieht er seinen kleinen Cousin
 - [[Serêa Talmor]] hält eine Rede
 - Anschließend werden die Gruppen (insg. 8) eingeteilt:
-	- [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]] kommen in Gruppe 1 kommen; [[Kwêa Timpól]] in Gruppe 1 kommen hätte sollen: aber niemand trat vor - vermutlich war dies die Tote.
-	- [[Remos]] kommt in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
-	- Weitere Gruppe: [[Gio Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothé Figure]]
-	- Weitere Gruppe komplett aus Fungril (Fuego-Kollektiv)
-	- Weitere Gruppe aus 5 Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**), inkl. [[Teperes]]
-	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe
+	- Gruppe 1: [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]]; [[Kwêa Timpól]] hätte in Gruppe 1 kommen sollen, aber niemand trat vor - vermutlich war dies die Tote. Schließlich kommt stattdessen Remos zu uns
+	- Gruppe 2: [[Remos]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
+	- Gruppe 3: [[Gio Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothe Figurê]]
+	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
+	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**)
+	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
