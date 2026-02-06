@@ -70,3 +70,7 @@
 ## Szene 4 - Sunny's Vision
 - Lautes Klirren und Husten, ein Brand im Hintergrund
 - Stimmen von Mann und Frau, die die Worte "Bombe" und "gestohlen" benutzt (aber mitsamt weiteren Wörtern)
+## Szene 5 - Am [[Platz der Rückkehr]]
+- etwa ... andere [[Kapkéhz Dim]], darunter auch [[Telrim Galoore]], [[Mitel Wedorring]] und eine Riesin, die [[Remos]] bemerkt. Außerdem sieht er seinen kleinen Cousin
+- [[Serêa Talmor]] hält eine Rede
+- 
