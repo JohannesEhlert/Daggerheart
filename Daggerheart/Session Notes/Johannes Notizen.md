@@ -58,8 +58,12 @@
   > Andere Gestalt: Und was ist mit dem Jungen?
   > Mutter: [Das wird sich zeigen] 
 - Elowin berichtet (im Fieber), dass ihre Mutter sie dazu bringen wollte, Remos zu opfern
-## Szene 2 - Untersuchungen
+## Szene 2 - Fortgesetzte Untersuchungen
 - [[Remos]] birgt eine Kiste mit zwei Blutegeln und einer Spritze
 - [[Lisha Serêa Stormhide|Lisha]] erinnert sich an ein okkultes Buch, dass
 	- [[Frêkit]]-Blut für Rituale genutzt wurde, indem es injiziert wird
 	- Die Blutegel sind [[Ghézno Egel]], die dazu genutzt werden können, Leute von Giften, Sünden und Unreinheiten zu befreien
+- Lisha möchte nicht, dass die Ältesten vom Tod der Halbelfe erfahren, daher bringen wir sie heimlich zur [[Senke der Ahnen]], wo Elowin jemanden kennt, der uns helfen könnte, sie - ohne viel Fragen - zu begraben
+## Szene 3 - Am Tempel
+- kleiner Tempel, darin ein Ork ([[Koruk]]) in heruntergekommener aber religiöser Kleidung, der über eine Leiche gebeugt ist, die bald beerdigt werden soll
+- Elowin geht mit Remos vor, um die Modalitäten zu klären.
