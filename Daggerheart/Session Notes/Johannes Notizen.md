@@ -67,3 +67,6 @@
 ## Szene 3 - Am Tempel
 - kleiner Tempel, darin ein Ork ([[Koruk]]) in heruntergekommener aber religiöser Kleidung, der über eine Leiche gebeugt ist, die bald beerdigt werden soll
 - Elowin geht mit Remos vor, um die Modalitäten zu klären. [[Koruk]] ist - nachdem Elowin ihre Autorität eingesetzt hat - bereit, uns zu helfen und Stillschweigen zu wahren, sowohl gegenüber den Firensis als auch gegenüber den Ältesten.
+## Szene 4 - Sunny's Vision
+- Lautes Klirren und Husten, ein Brand im Hintergrund
+- Stimmen von Mann und Frau, die die Worte "Bombe" und "gestohlen" benutzt (aber mitsamt weiteren Wörtern)
