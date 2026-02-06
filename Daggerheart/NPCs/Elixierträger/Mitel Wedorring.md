@@ -1,0 +1,2 @@
+- Halb-Halbling
+- Berühmt als Wassermagier, hilfreich zum Anbau von Pflanzen

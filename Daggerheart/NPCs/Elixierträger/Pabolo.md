@@ -1,0 +1,2 @@
+- Galappa
+- sehr skeptisch mit Hang zur Verschwörungstheorie

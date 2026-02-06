@@ -76,7 +76,7 @@
 - Anschließend werden die Gruppen (insg. 8) eingeteilt:
 	- Gruppe 1: [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]]; [[Kwêa Timpól]] hätte in Gruppe 1 kommen sollen, aber niemand trat vor - vermutlich war dies die Tote. Schließlich kommt stattdessen Remos zu uns
 	- Gruppe 2: [[Remos]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
-	- Gruppe 3: [[Gio Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothe Figurê]]
+	- Gruppe 3: [[Giyu Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothe Figurê]]
 	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
 	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**)
 	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
