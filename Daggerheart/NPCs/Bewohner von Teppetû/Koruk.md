@@ -5,3 +5,5 @@
 - Elowin hat ihn im Rahmen ihrer ehrenamtlichen Arbeit kennen gelernt
 - er ist mit der Familie Firensis verbunden
 - lebt eher zurückgezogen
+- ist der Familie zwar treu, geht aber Stress aus dem Weg und wird daher (hoffentlich) das Geheimnis bewahren
+- 

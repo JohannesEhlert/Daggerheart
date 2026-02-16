@@ -32,8 +32,20 @@
 
 ## 4. Heimkehr aller am Ende des Tages
 
+### Sunny 
+- trifft auf Hector, der im Wohnzimmer eingeschlafen ist
+- Vision: 
+	- Feuer, Rauch, Husten
+	- Wieder Mann und Frau redend
+	- die einzigen verstehbaren Wortfetzen "Bombe" und "gestohlen"
+### Lisha 
+- kurz in der Bibliothek von ihren Freunden verabschiedet
+- dann nach Hause, Eltern noch wach, kurzes Gespräch
+- waren nicht in Gefahr, ganz normaler Tag
+- Mutter überreicht einen Brief, der erst draußen geöffnet werden darf
+### Elowin und Remos
+- Elowin Vordereingang, Remos hält sich versteckt nur für den Notfall
 - 
-
 ## 5. Die Gruppenauswahl für die [[Kapkéhz Mahrcî|Elixierbergung]]
 
 
