@@ -50,6 +50,10 @@
 - geht nochmal auf den Balkon um sich abzulenken (Ball) bevor er schlafen geht
 ## 5. Die Gruppenauswahl für die [[Kapkéhz Mahrcî|Elixierbergung]]
 - ca. 40 Personen stehen zur Teilnahme bereit, manche bekannt
+- [[Serêa Talmor]] verkündet die Gruppeneinteilung
+- Remos ist zunächst als einziger in Gruppe 2
+- [[Zamâia Firensis]] entehrt [[Kwêa Timpól (†)]] und beschuldigt sie des Verrats an [[Teppetû]]; verlangt "Auslieferung" und sorgt dann dafür, dass Remos zu Gruppe 1 wechseln kann
+- kleinere Auseinandersetzung mit [[Telrim Galoore]] die Remos "gewinnen" kann
 
 Gruppe 1:
 Lisha
@@ -74,10 +78,13 @@ Gruppe 4:
 **Das [[Fuego Kollektiv]]** (Fungril)
 
 Gruppe 5:
-NPCs die ihr erstellt + **Tepêris** (Infernis)
+NPCs die ihr erstellt + **[[Tepêris]]** (Infernis)
 
 Gruppe 6 - 8:
 Namenlose NPCs
+
+
+
 # Lorenotizen: 
 
 ## Ort: [[Senke der Erinnerungen]] & [[Ahnenbrunnen Ves-kohur]]
