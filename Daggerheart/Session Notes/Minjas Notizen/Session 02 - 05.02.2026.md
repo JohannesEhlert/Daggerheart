@@ -26,10 +26,11 @@
 
 ## 3. Gespräch mit [[Koruk]] im Tempel 
 
-- kleiner Tempel
-- keine festen Wände, eher Pavillon
+- kleiner Tempel, keine festen Wände, eher Pavillon
 - moosbewachsen, Steinaltar mit einem Leichnam der präpariert wird
-- Ork Koruk
+- Elowin nutzt ihre Autorität um Koruk zu Bitten: er kümmert sich um die Leiche und bewahrt Stillschweigen
+- 
+- 
 
 
 # Lorenotizen: 
