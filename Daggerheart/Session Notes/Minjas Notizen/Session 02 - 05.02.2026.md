@@ -12,7 +12,7 @@
 
 ## 2. Zurück in der Gegenwart im Sumpf
 
-- Remos: Versuch [[Aratas]] von Elowin zu trennen, 
+- Remos: Versuch [[Arathas]] von Elowin zu trennen, 
 - Hört eigenes Schwert [[Beretor]] in seinem eigenen Kopf "Weil du zu schwach bist" 
 - Bedrohung durch Aratas + Verletzung (Hand gelähmt)
 - Elowin (nicht bei Bewusstsein): Sagt Sunny, dass sie Remos opfern soll aber das nicht möchte
@@ -45,7 +45,8 @@
 - Mutter überreicht einen Brief, der erst draußen geöffnet werden darf
 ### Elowin und Remos
 - Elowin Vordereingang, Remos hält sich versteckt nur für den Notfall
-- 
+- Mutter fragt nach Arathas, akzeptiert Elowins Aussagen zum Schwert, tadelt ihr Verhalten und verlangt nach Rückkehr einen Beweis dafür, dass Familie für Elowin an erster Stelle steht
+- Remos schleicht sich durchs Fenster herein 
 ## 5. Die Gruppenauswahl für die [[Kapkéhz Mahrcî|Elixierbergung]]
 
 
