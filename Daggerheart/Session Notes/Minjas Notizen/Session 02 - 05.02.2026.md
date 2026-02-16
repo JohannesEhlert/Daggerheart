@@ -46,12 +46,38 @@
 ### Elowin und Remos
 - Elowin Vordereingang, Remos hält sich versteckt nur für den Notfall
 - Mutter fragt nach Arathas, akzeptiert Elowins Aussagen zum Schwert, tadelt ihr Verhalten und verlangt nach Rückkehr einen Beweis dafür, dass Familie für Elowin an erster Stelle steht
-- Remos schleicht sich durchs Fenster herein 
+- Remos schleicht sich durchs Fenster herein
+- geht nochmal auf den Balkon um sich abzulenken (Ball) bevor er schlafen geht
 ## 5. Die Gruppenauswahl für die [[Kapkéhz Mahrcî|Elixierbergung]]
+- ca. 40 Personen stehen zur Teilnahme bereit, manche bekannt
 
+Gruppe 1:
+Lisha
+Elowin
+Sunny
+~~[[Kwêa Timpól (†)]]~~
+Remos
 
+Gruppe 2:
+**[[Telrim Galoore]]** (Infernis)
+**[[Wo]]?** (Riese)
+**[[Zilvorâ]]** (Katari)
+**[[Pabolo]]** (Galappa)
 
+Gruppe 3:
+**[[Giyu Vâresh]]** (Elf)
+**[[Mitel Wedorring]]** (Halb-Halbling)
+**[[Wippe]]** (Earthkin)
+**[[Rothé Figure]]** (Faun)
 
+Gruppe 4:
+**Das [[Fuego Kollektiv]]** (Fungril)
+
+Gruppe 5:
+NPCs die ihr erstellt + **Tepêris** (Infernis)
+
+Gruppe 6 - 8:
+Namenlose NPCs
 # Lorenotizen: 
 
 ## Ort: [[Senke der Erinnerungen]] & [[Ahnenbrunnen Ves-kohur]]
