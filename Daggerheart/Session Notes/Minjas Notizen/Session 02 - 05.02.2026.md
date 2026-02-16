@@ -30,7 +30,7 @@
 - moosbewachsen, Steinaltar mit einem Leichnam der präpariert wird
 - Elowin nutzt ihre Autorität um Koruk zu Bitten: er kümmert sich um die Leiche und bewahrt Stillschweigen
 
-## 4. Ende des Tages und Heimkehr aller
+## 4. Heimkehr aller am Ende des Tages
 
 - 
 

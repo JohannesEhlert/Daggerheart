@@ -4,3 +4,4 @@
 - Arbeitet in einem kleinen Tempel in der [[Senke der Erinnerungen]] und präpariert dort die Verstorbenen
 - Elowin hat ihn im Rahmen ihrer ehrenamtlichen Arbeit kennen gelernt
 - er ist mit der Familie Firensis verbunden
+- lebt eher zurückgezogen
