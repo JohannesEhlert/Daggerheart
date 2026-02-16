@@ -32,6 +32,8 @@
 
 ## 4. Ende des Tages und Heimkehr aller
 
+- 
+
 ## 5. Die Gruppenauswahl für die [[Kapkéhz Mahrcî|Elixierbergung]]
 
 
