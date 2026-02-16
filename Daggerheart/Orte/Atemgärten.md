@@ -3,7 +3,9 @@ aliases:
   - Ba-Kohur Trêas
   - Atembrunnengärten
 ---
+Hier befindet sich der [[Ahnenbrunnen Ba-kohur]]
 
+Informationen:
  - im Loredokument auch: "Ba-Kohur Trêas" oder "Atembrunnengärten"
  - besucht in: Session 1
  

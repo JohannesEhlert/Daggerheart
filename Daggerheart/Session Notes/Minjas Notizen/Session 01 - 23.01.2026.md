@@ -59,7 +59,7 @@
 
 ## 7. Untersuchung der [[Atemgärten]]
 
-- Leiche ist eine Halbelfe mit einem Dolch im Rücken, Lishas Eltern bisher nicht zu sehen
+- Leiche ist eine [[Kwêa Timpól (†)|Halbelfe]] mit einem Dolch im Rücken, Lishas Eltern bisher nicht zu sehen
 - Sunny entfernt Dolch und schneidet sich dabei, etwas befällt ihn – Fluch? Seele?
 - Genauere Untersuchung von Lisha: Dolch, T2 Finesse Waffe, verursacht eine extra Wunde wenn das Ziel einem vertraut und überträgt einen Fluch
 - Zeichen auf dem Dolch: Hirschgeweih mit Blut
