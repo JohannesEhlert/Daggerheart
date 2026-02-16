@@ -18,9 +18,7 @@ Irgendwann während der Zeit in der Bibliothek fiel ihr ein Abenteuerroman in di
 
 Als sie alt genug war – und weil ihre Leistungen weiterhin überdurchschnittlich waren, wenn auch nicht mehr so herausragend wie zuvor – bekam sie die Erlaubnis, auch die nicht öffentlich zugänglichen Bereiche der Bibliothek zu betreten. Bei einer ihrer dortigen Rechercherunden fand sie ein altes faszinierendes Buch. Jedes Mal wenn sie das Buch aufschlug, stand etwas Neues darin und das Buch begann, direkt mit ihr zu kommunizieren. Es versprach ihr, dass es dafür sorgen würde, dass Lisha ihre eigene Abenteuergeschichte schreiben würde, wenn sie nur tat, was es ihr auftrug.
 
-## Lishas Buch
-
-Es ist ein recht kleines unauffälliges Buch mit einem ledernen Einband, der ein wenig verziert ist. Es steht ein Titel in einer Sprache darauf, den Lisha nicht lesen kann. Der restliche Text ist für sie aber lesbar.
+## [[Lishas Buch]]
 
 Die Gottheit, die dahintersteckt, heißt **Veto**. Wofür diese Gottheit steht oder was die Motive von ihr sind, weiß Lisha nicht. Sie hat natürlich gefragt, aber die Antwort war eher vage in Richtung „ich werde dir helfen und dich stark genug machen, das Abenteuer zu bestehen“.  
 
