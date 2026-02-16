@@ -12,8 +12,8 @@
 
 ## 2. Zurück in der Gegenwart im Sumpf
 
-- Remos: Versuch [[Arathas]] von Elowin zu trennen, 
-- Hört eigenes Schwert [[Beretor]] in seinem eigenen Kopf "Weil du zu schwach bist" 
+- Remos: Versuch [[Schwert Arathas]] von Elowin zu trennen, 
+- Hört eigenes Schwert [[Schwert Beretor]] in seinem eigenen Kopf "Weil du zu schwach bist" 
 - Bedrohung durch Aratas + Verletzung (Hand gelähmt)
 - Elowin (nicht bei Bewusstsein): Sagt Sunny, dass sie Remos opfern soll aber das nicht möchte
 - um das Schwert: kein Blut von Elowin, scheint aufgenommen zu werden & bewegt sich von selbst wieder in die Schwertscheide
