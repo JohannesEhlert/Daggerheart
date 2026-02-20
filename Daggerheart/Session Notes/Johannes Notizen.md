@@ -114,4 +114,8 @@
 - [[Mikos]] habe etwas gefaselt von einer Bombe und dass die Stadt in Gefahr sei
 - Bittet uns, nach ihrem Bruder [[Telrim Galoore]] zu schauen
 - [[Tepêris]] war offenbar nicht offiziell in ihrer Gruppe, aber er hat bloß mit [[Mikos]] geredet. Er ist offenbar nicht mit durch den [[Lebender Dornenkranz|Kâr Do Vêl]] gekommen
-- 
+- Anschließend machen wir uns weiter auf dem Weg durch den Sumpf
+## Szene 6 - Durch den Sumpf
+- [[Elowin]] führt uns durch den tiefen Morast
+- Kommen zu den Ruinen eines Tempels, zu dessen beiden Seiten Bewegung im Wasser/Sumpf ist, aus dem orangefarbene Schuppen herausragen - wie die Rückenschuppen eines [[Sumpftiger]]
+- Sunny sieht eine Art Balkon, auf den wir uns flüchten können
