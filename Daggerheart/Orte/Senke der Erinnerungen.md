@@ -3,7 +3,7 @@ aliases:
   - Zît Ves-kohur
   - Friedhof
 ---
-Erwähnt in: Session 2
+Besucht in: Session 2
 hier befindet sich der [[Ahnenbrunnen Ves-kohur]]
 
 Infos: 
