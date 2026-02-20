@@ -33,6 +33,10 @@ Gruppe 4:
 
 Gruppe 5:
 NPCs die ihr erstellt + **[[Tepêris]]** (Infernis)
+[[Lyra]]
+[[Êy der Mönch]]
+[[Mikos]]
+
 
 Gruppe 6 - 8:
 Namenlose NPCs
