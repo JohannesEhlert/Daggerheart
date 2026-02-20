@@ -106,3 +106,5 @@
 - Kommen im Urwald an, in dem überbordendes Leben vorherrscht
 - Sehen eine Blutspur, der wir folgen, und an deren Ende eine große Lache ist, in der sich ein abgetrennter Arm befindet, dessen Faust etwas leuchtendes umschließt
 - Ein [[Sumpftiger]] hat dem Elfen [[Mikos]] den Arm abgebissen und den Körper dann weggeschleift
+- In der Hand ist ein Zettel, auf den mit Blut der Schriftzug "Die Bombe wird ..." geschrieben steht
+- In seiner Hand steckt [[Vrancâ-Baum|Glimmholz]], weswegen seine Hand leuchtet
