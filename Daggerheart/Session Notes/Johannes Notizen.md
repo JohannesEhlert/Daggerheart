@@ -108,3 +108,6 @@
 - Ein [[Sumpftiger]] hat dem Elfen [[Mikos]] den Arm abgebissen und den Körper dann weggeschleift
 - In der Hand ist ein Zettel, auf den mit Blut der Schriftzug "Die Bombe wird ..." geschrieben steht
 - In seiner Hand steckt [[Vrancâ-Baum|Glimmholz]], weswegen seine Hand leuchtet
+## Szene 5 - Im Sumpf
+- Begegnen [[Belaia Galoore]]
+- 
