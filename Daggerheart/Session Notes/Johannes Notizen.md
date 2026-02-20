@@ -118,4 +118,4 @@
 ## Szene 6 - Durch den Sumpf
 - [[Elowin]] führt uns durch den tiefen Morast
 - Kommen zu den Ruinen eines Tempels, zu dessen beiden Seiten Bewegung im Wasser/Sumpf ist, aus dem orangefarbene Schuppen herausragen - wie die Rückenschuppen eines [[Sumpftiger]]
-- Sunny sieht eine Art Balkon, auf den wir uns flüchten können
+- [[Sunny]] sieht eine Art Balkon, auf den wir uns dank einer Ablenkung von [[Lisha Serêa Stormhide|Lisha]] flüchten können
