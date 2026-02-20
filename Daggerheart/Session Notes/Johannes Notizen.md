@@ -100,6 +100,8 @@
 - Etwas zieht einen anderen [[Kapkéhz Dim]] in die Dornenwand: lila-dämonisch-belebte Dornenranken
 - [[Rothé Figure]] wird beinahe in die Dornen gezogen, aber [[Sunny]] schafft es, ihn mit einem Zauber zu befreien
 - Schlagen uns durch die Ranken durch, sehen aber Blut von [[Kapkéhz Dim]], die in die Dornen gezogen wurden
-## Szene 4 - Hinter dem [[Lebender Dornenkranz|Kâr Do Vêl]]
-- Vor den Dornen wartet eine Gestalt, die aus Dornen zu bestehen scheint
+- Am Rand der Dornen wartet eine Gestalt, die aus Dornen zu bestehen scheint
 - [[Elowin]] verschafft uns eine Lücke, durch die wir an der Figur vorbeikommen
+## Szene 4 - Hinter dem [[Lebender Dornenkranz|Kâr Do Vêl]]
+- Kommen im Urwald an, in dem überbordendes Leben vorherrscht
+- Sehen eine Blutspur, der wir folgen, und an deren Ende eine große Lache ist, in der sich ein abgetrennter Arm befindet, dessen Faust etwas leuchtendes umschließt
