@@ -31,8 +31,8 @@ Gruppe 3:
 Gruppe 4:
 **Das [[Fuego Kollektiv]]** (Fungril)
 
-Gruppe 5:
-NPCs die ihr erstellt + **[[Tepêris]]** (Infernis)
+Gruppe 5 (mit unseren NPCs):
+**[[Tepêris]]** (Infernis)
 [[Lyra]]
 [[Êy der Mönch]]
 [[Mikos]]
