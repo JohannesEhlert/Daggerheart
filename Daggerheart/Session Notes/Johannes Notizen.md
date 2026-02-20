@@ -113,3 +113,4 @@
 - [[Lyra]] ist irgendwo reingefallen
 - [[Mikos]] habe etwas gefaselt von einer Bombe und dass die Stadt in Gefahr sei
 - Bittet uns, nach ihrem Bruder [[Telrim Galoore]] zu schauen
+- [[Tepêris]] war offenbar nicht offiziell in ihrer Gruppe, aber er hat bloß mit [[Mikos]] geredet. Er ist offenbar nicht mit durch den [[Lebender Dornenkranz|Kâr Do Vêl]] gekommen
