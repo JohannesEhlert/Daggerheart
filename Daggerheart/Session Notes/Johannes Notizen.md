@@ -80,3 +80,12 @@
 	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
 	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**)
 	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól (†)]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
+# Session 3
+## Szene 1 - Rückblende: [[Lisha]] in der Bibliothek
+- Lisha liest gemütlich Buch über Kräuter
+- Ein Freund von Lisha - [[Lim]] - kommt zu ihr. Er hat erst heute erfahren, dass Lisha an der [[Kapkéhz Mahrcî|Elixierbergung]] teilnimmt. Er macht sich sorgen um sie, spricht sie auf ihr Buch an und hat nicht die beste Meinung davon
+- Vom Gespräch angelockt kommen [[Olli]] und [[Lua]] herüber, die in der Bibliothek arbeiten. 
+- Lishas Freunde sind sehr skeptisch, ob sie den Gefahren bei der [[Kapkéhz Mahrcî|Elixierbergung]] gewachsen sind
+## Szene 2 - Vor dem [[Lebender Dornenkranz|Kâr Do Vêl]]
+- Umgeben von [[Kapkéhz Dim]] und Schaulustigen vollführen einige Druiden ein Ritual mit dem Wasser der Ahnenbrunnen, um den [[Lebender Dornenkranz|Kâr Do Vêl]] zu öffnen
+- [[Lim]] kommt nochmal zu [[Lisha Serêa Stormhide|Lisha]], um ihr Lebwohl zu sagen
