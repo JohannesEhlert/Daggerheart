@@ -89,3 +89,11 @@
 ## Szene 2 - Vor dem [[Lebender Dornenkranz|Kâr Do Vêl]]
 - Umgeben von [[Kapkéhz Dim]] und Schaulustigen vollführen einige Druiden ein Ritual mit dem Wasser der Ahnenbrunnen, um den [[Lebender Dornenkranz|Kâr Do Vêl]] zu öffnen
 - [[Lim]] kommt nochmal zu [[Lisha Serêa Stormhide|Lisha]], um ihr Lebwohl zu sagen
+- Dann schreiten alle durch den Wall, der sich viele Meter breit erstreckt
+- [[Remos]] wird von seiner Waffe aufgefordert, ein Blutritual aufzufrischen, bei dem er einen Talisman aus Blut erzeugt.
+- [[Sunny]] beobachtet, wie sich eine dünne Schicht Nebel auf dem Boden ausbreitet
+- [[Elowin]] führt ein Ritual zur Stärkung der Bindung an [[Schwert Arathas|Arathas]] durch; dieser antwortet, dass er von ihr erwartet, Blut zu vergießen, damit er trinken kann
+- Je weiter wir kommen und je mehr Zeit verstreicht, desto mehr steigt der Nebel
+- Sunny wird plötzlich von etwas erfasst, das versucht, ihn in den Nebel zu ziehen, aber während [[Remos]] das etwas durchhackt, hält ihn [[Elowin]] fest
+- Etwas zieht einen anderen [[Kapkéhz Dim]] in die Dornenwand: lila-dämonisch-belebte Dornenranken
+- [[Rothé Figure]] wird beinahe in die Dornen gezogen, aber [[Sunny]] schafft es, ihn mit einem Zauber zu befreien

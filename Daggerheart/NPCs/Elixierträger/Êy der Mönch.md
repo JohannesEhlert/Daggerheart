@@ -1,0 +1,4 @@
+- Simiah
+- nachdenklich, philosophisch
+- streicht sich gerne über seinen langen Kinnbart
+- Faustkämpfer
