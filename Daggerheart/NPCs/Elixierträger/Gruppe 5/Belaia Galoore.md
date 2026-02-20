@@ -1,0 +1,2 @@
+- Schwester von [[Telrim Galoore]]
+- Versiert im Kampf

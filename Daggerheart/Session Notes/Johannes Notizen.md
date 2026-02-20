@@ -76,9 +76,9 @@
 - Anschließend werden die Gruppen (insg. 8) eingeteilt:
 	- Gruppe 1: [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]]; [[Kwêa Timpól (†)]] hätte in Gruppe 1 kommen sollen, aber niemand trat vor - vermutlich war dies die Tote. Schließlich kommt stattdessen Remos zu uns
 	- Gruppe 2: [[Remos]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
-	- Gruppe 3: [[Giyu Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothe Figurê]]
+	- Gruppe 3: [[Giyu Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothé Figure]]
 	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
-	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**)
+	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**): [[Mikos]], [[Belaia Galoore]], [[Êy der Mönch]], [[Lyra]]
 	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól (†)]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
 # Session 3
 ## Szene 1 - Rückblende: [[Lisha]] in der Bibliothek
@@ -108,3 +108,15 @@
 - Ein [[Sumpftiger]] hat dem Elfen [[Mikos]] den Arm abgebissen und den Körper dann weggeschleift
 - In der Hand ist ein Zettel, auf den mit Blut der Schriftzug "Die Bombe wird ..." geschrieben steht
 - In seiner Hand steckt [[Vrancâ-Baum|Glimmholz]], weswegen seine Hand leuchtet
+## Szene 5 - Im Sumpf
+- Begegnen [[Belaia Galoore]], die verletzt ist, weil [[Sumpftiger]] ihre Gruppe angegriffen wurde
+- [[Lyra]] ist irgendwo reingefallen
+- [[Mikos]] habe etwas gefaselt von einer Bombe und dass die Stadt in Gefahr sei
+- Bittet uns, nach ihrem Bruder [[Telrim Galoore]] zu schauen
+- [[Tepêris]] war offenbar nicht offiziell in ihrer Gruppe, aber er hat bloß mit [[Mikos]] geredet. Er ist offenbar nicht mit durch den [[Lebender Dornenkranz|Kâr Do Vêl]] gekommen
+- Anschließend machen wir uns weiter auf dem Weg durch den Sumpf
+## Szene 6 - Durch den Sumpf
+- [[Elowin]] führt uns durch den tiefen Morast
+- Kommen zu den Ruinen eines Tempels, zu dessen beiden Seiten Bewegung im Wasser/Sumpf ist, aus dem orangefarbene Schuppen herausragen - wie die Rückenschuppen eines [[Sumpftiger]]
+- [[Sunny]] sieht eine Art Balkon, auf den wir uns dank einer Ablenkung von [[Lisha Serêa Stormhide|Lisha]] flüchten können
+
