@@ -13,10 +13,10 @@
 - Luisa gibt ihm ein [[Vrancâ-Baum|Glimmholz]]-Herz, das ihr [[Hector]] für ihn mitgegeben hat und das sie ihm in den Torso seitlich einsetzt - ein Zeichen der Hoffnung
 ## Szene 2 - [[Elowin]]
 - Ist mit ihrer Mutter unterwegs
-- Sie fragt ihn nach ihrem Bruder [[Remos]], der sie begleiten wird
+- Sie fragt ihn nach ihrem Bruder [[Remos Firensis]], der sie begleiten wird
 - Erwähnt [[Leuchtkröten]] und nutzt die Analogie, dass die Kröten trotz ihrer symbiotischen Beziehung mit Glühwürmchen in schwierigen Zeiten auch die Glühwürmchen angreifen, um ihr (durch die Blume hinweg) zu sagen, das sie womöglich ihren Bruder zurücklassen oder gar hintergehen werden muss.
 - Elowin lehnt das aber zur Enttäuschung ihrer Mutter ab, woraufhin diese weggeht
-## Szene 3 - [[Remos]]
+## Szene 3 - [[Remos Firensis]]
 - Trifft [[Telrim Galoore]], der ihn gesucht hat
 - Er nimmt auch am [[Kapkéhz Mahrcî]] teil und hofft, dass er mit Remos und Elowin ein Team bilden wird
 - Er behauptet, dass er mit [[Elowin]] verlobt werden soll, sollten beide erfolgreich zurückkehren
@@ -25,11 +25,11 @@
 - Wurde heute morgen von ihren Eltern im Haus eingesperrt, nachdem sie einen Streit mit ihnen hatte
 - Vor dem Fest kommt [[Zilvorâ]] auf Lisha zu und spricht von Lishas Auseinandersetzung mit ihren Eltern am Morgen
 - Sie überbringt eine Warnung: In den [[Atemgärten]] sollen [[Frêkit]] unterwegs sein - der [[Lebender Dornenkranz|Kâr Do Vêl]] sei durchlässig, denn die [[Ahnenbrunnen]] seien ausgetrocknet. Dort sollen auch ihre Eltern unterwegs sein.
-- Trifft dann auf [[Remos]], fragt ihn nach dem Gerücht. Es kann sein, dass einzelne Monster durch den Wall gekommen sind - jetzt kurz vor dem [[Kapkéhz Mahrcî|Elixierlauf]] - aber nichts besonders gefährliches
+- Trifft dann auf [[Remos Firensis]], fragt ihn nach dem Gerücht. Es kann sein, dass einzelne Monster durch den Wall gekommen sind - jetzt kurz vor dem [[Kapkéhz Mahrcî|Elixierlauf]] - aber nichts besonders gefährliches
 ## Szene 5 - Gemeinsam am [[Platz der Rückkehr]]
 - Zünden unsere [[Vrancâ-Baum|Glimmholz]]-Laternen an
 - Spitznamen: Winny und Remilein
-- [[Elowin]] besteht darauf, dass die Laternen gleich sein müssen, was kaum möglich ist, aber [[Remos]] kann sie davon überzeugen, dass die Laternen übereinstimmen
+- [[Elowin]] besteht darauf, dass die Laternen gleich sein müssen, was kaum möglich ist, aber [[Remos Firensis]] kann sie davon überzeugen, dass die Laternen übereinstimmen
 - Wir lassen die Laternen steigen und wünschen uns jede:r still etwas
 - Während [[Lisha]], Sunny und Remos zu den [[Atemgärten]] aufbrechen, kehrt Elowin nach Hause zurück
 - Lisha kontaktiert ihr Buch, das ihr rät, sofort zu den Atemgärten aufzubrechen: Abenteuer warte und Blut sei schon vergossen
@@ -59,7 +59,7 @@
   > Mutter: [Das wird sich zeigen] 
 - Elowin berichtet (im Fieber), dass ihre Mutter sie dazu bringen wollte, Remos zu opfern
 ## Szene 2 - Fortgesetzte Untersuchungen
-- [[Remos]] birgt eine Kiste mit zwei Blutegeln und einer Spritze
+- [[Remos Firensis]] birgt eine Kiste mit zwei Blutegeln und einer Spritze
 - [[Lisha Serêa Stormhide|Lisha]] erinnert sich an ein okkultes Buch, dass
 	- [[Frêkit]]-Blut für Rituale genutzt wurde, indem es injiziert wird
 	- Die Blutegel sind [[Ghézno Egel]], die dazu genutzt werden können, Leute von Giften, Sünden und Unreinheiten zu befreien
@@ -71,14 +71,14 @@
 - Lautes Klirren und Husten, ein Brand im Hintergrund
 - Stimmen von Mann und Frau, die die Worte "Bombe" und "gestohlen" benutzt (aber mitsamt weiteren Wörtern)
 ## Szene 5 - Am [[Platz der Rückkehr]]
-- etwa ... andere [[Kapkéhz Dim]], darunter auch [[Telrim Galoore]], [[Mitel Wedorring]] und eine Riesin, die [[Remos]] bemerkt. Außerdem sieht er seinen kleinen Cousin
+- etwa ... andere [[Kapkéhz Dim]], darunter auch [[Telrim Galoore]], [[Mitel Wedorring]] und eine Riesin, die [[Remos Firensis]] bemerkt. Außerdem sieht er seinen kleinen Cousin
 - [[Serêa Talmor]] hält eine Rede
 - Anschließend werden die Gruppen (insg. 8) eingeteilt:
 	- Gruppe 1: [[Lisha Serêa Stormhide|Lisha]], [[Sunny]] und [[Elowin]]; [[Kwêa Timpól (†)]] hätte in Gruppe 1 kommen sollen, aber niemand trat vor - vermutlich war dies die Tote. Schließlich kommt stattdessen Remos zu uns
-	- Gruppe 2: [[Remos]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
+	- Gruppe 2: [[Remos Firensis]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
 	- Gruppe 3: [[Giyu Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothé Figure]]
 	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
-	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**): [[Mikos]], [[Vellâya Galoore]], [[Êy der Mönch]], [[Lyra]]
+	- Gruppe 5: [[Tepêris Firensis]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**): [[Mikos]], [[Vellâya Galoore]], [[Êy der Mönch]], [[Lyra]]
 	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól (†)]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
 # Session 3
 ## Szene 1 - Rückblende: [[Lisha]] in der Bibliothek
@@ -92,11 +92,11 @@
 - Dann schreiten alle durch den Wall, der sich viele Meter breit erstreckt
 
 ## Szene 3 - Durch den [[Lebender Dornenkranz|Kâr Do Vêl]]
-- [[Remos]] wird von seiner Waffe aufgefordert, ein Blutritual aufzufrischen, bei dem er einen Talisman aus Blut erzeugt.
+- [[Remos Firensis]] wird von seiner Waffe aufgefordert, ein Blutritual aufzufrischen, bei dem er einen Talisman aus Blut erzeugt.
 - [[Sunny]] beobachtet, wie sich eine dünne Schicht Nebel auf dem Boden ausbreitet
 - [[Elowin]] führt ein Ritual zur Stärkung der Bindung an [[Schwert Arathas|Arathas]] durch; dieser antwortet, dass er von ihr erwartet, Blut zu vergießen, damit er trinken kann
 - Je weiter wir kommen und je mehr Zeit verstreicht, desto mehr steigt der Nebel
-- Sunny wird plötzlich von etwas erfasst, das versucht, ihn in den Nebel zu ziehen, aber während [[Remos]] das etwas durchhackt, hält ihn [[Elowin]] fest
+- Sunny wird plötzlich von etwas erfasst, das versucht, ihn in den Nebel zu ziehen, aber während [[Remos Firensis]] das etwas durchhackt, hält ihn [[Elowin]] fest
 - Etwas zieht einen anderen [[Kapkéhz Dim]] in die Dornenwand: lila-dämonisch-belebte Dornenranken
 - [[Rothé Figure]] wird beinahe in die Dornen gezogen, aber [[Sunny]] schafft es, ihn mit einem Zauber zu befreien
 - Schlagen uns durch die Ranken durch, sehen aber Blut von [[Kapkéhz Dim]], die in die Dornen gezogen wurden
@@ -113,7 +113,7 @@
 - [[Lyra]] ist irgendwo reingefallen
 - [[Mikos]] habe etwas gefaselt von einer Bombe und dass die Stadt in Gefahr sei
 - Bittet uns, nach ihrem Bruder [[Telrim Galoore]] zu schauen
-- [[Tepêris]] war offenbar nicht offiziell in ihrer Gruppe, aber er hat bloß mit [[Mikos]] geredet. Er ist offenbar nicht mit durch den [[Lebender Dornenkranz|Kâr Do Vêl]] gekommen
+- [[Tepêris Firensis]] war offenbar nicht offiziell in ihrer Gruppe, aber er hat bloß mit [[Mikos]] geredet. Er ist offenbar nicht mit durch den [[Lebender Dornenkranz|Kâr Do Vêl]] gekommen
 - Anschließend machen wir uns weiter auf dem Weg durch den Sumpf
 ## Szene 6 - Durch den Sumpf
 - [[Elowin]] führt uns durch den tiefen Morast

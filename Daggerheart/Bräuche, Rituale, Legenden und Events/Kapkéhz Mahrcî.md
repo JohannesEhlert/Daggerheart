@@ -32,7 +32,7 @@ Gruppe 4:
 **Das [[Fuego Kollektiv]]** (Fungril)
 
 Gruppe 5 (mit unseren NPCs):
-**[[Tepêris]]** (Infernis)
+**[[Tepêris Firensis]]** (Infernis)
 [[Lyra]]
 [[Êy der Mönch]]
 [[Mikos]]

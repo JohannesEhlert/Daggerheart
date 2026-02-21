@@ -9,12 +9,12 @@
 
 ## Szene 2: Elowins Zweifel
 - [[Elowin]] spricht mit ihrer Mutter auf dem Platz.
-- Die Mutter bevorzugt Elowin gegenüber ihrem Bruder [[Remos]].
+- Die Mutter bevorzugt Elowin gegenüber ihrem Bruder [[Remos Firensis]].
 - Metapher der [[Leuchtkröten]]: Elowin soll Remos notfalls für das höhere Ziel hintergehen oder zurücklassen.
 - Elowin lehnt diese Vorstellung entschieden ab.
 
 ## Szene 3: Remos und die schleimige Begegnung
-- [[Remos]] hilft bei den Vorbereitungen und verteilt Laternen.
+- [[Remos Firensis]] hilft bei den Vorbereitungen und verteilt Laternen.
 - Er trifft auf den herablassenden [[Telrim Galoore]].
 - Telrim hofft auf ein gemeinsames Team mit den Firensis-Geschwistern.
 - Er behauptet, bei Erfolg mit Elowin verlobt zu werden, und äußert sich abfällig über [[Lisha Serêa Stormhide|Lisha]].

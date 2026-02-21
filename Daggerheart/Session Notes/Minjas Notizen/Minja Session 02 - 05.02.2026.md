@@ -78,7 +78,7 @@ Gruppe 4:
 **Das [[Fuego Kollektiv]]** (Fungril)
 
 Gruppe 5:
-NPCs die ihr erstellt + **[[Tepêris]]** (Infernis)
+NPCs die ihr erstellt + **[[Tepêris Firensis]]** (Infernis)
 
 Gruppe 6 - 8:
 Namenlose NPCs

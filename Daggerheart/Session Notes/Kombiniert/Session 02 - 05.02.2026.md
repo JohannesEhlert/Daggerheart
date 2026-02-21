@@ -4,7 +4,7 @@
 - Im Fieber erlebt [[Elowin]] eine Rückblende in ihre Kindheit.
 - Ihre Mutter [[Zamâia Firensis]] und eine schwarze Gestalt besprechen Elowins Potenzial als "Schlüssel" für eine größere Macht.
 - Das Schwert [[Schwert Arathas|Arathas]] wird als Erbstück eingeführt.
-- Die Mutter äußert Zweifel an der Würdigkeit von [[Remos]] und plant ihn womöglich als Opfer ein.
+- Die Mutter äußert Zweifel an der Würdigkeit von [[Remos Firensis]] und plant ihn womöglich als Opfer ein.
 
 ## Szene 2: Nachwehen im Sumpf
 - In den [[Atemgärten]] versucht Remos vergeblich, das Schwert von der bewusstlosen Elowin zu trennen.
@@ -21,11 +21,11 @@
 ## Szene 4: Heimkehr und Vorbereitungen
 - [[Sunny]] erlebt eine weitere Vision von Brand, Rauch und den Worten "Bombe" und "gestohlen".
 - [[Lisha Serêa Stormhide|Lisha]] kehrt heim und erhält von ihrer Mutter einen Brief, den sie erst während der Bergung öffnen darf.
-- [[Remos]] und Elowin kehren ins Haus der Firensis zurück. [[Zamâia Firensis]] fordert von Elowin nach ihrer Rückkehr einen Beweis ihrer Loyalität zur Familie.
+- [[Remos Firensis]] und Elowin kehren ins Haus der Firensis zurück. [[Zamâia Firensis]] fordert von Elowin nach ihrer Rückkehr einen Beweis ihrer Loyalität zur Familie.
 
 ## Szene 5: Der Elixierlauf beginnt
 - Am Morgen versammeln sich ca. 40 Teilnehmer am [[Platz der Rückkehr]].
 - [[Serêa Talmor]] gibt die Gruppeneinteilung bekannt.
 - Ursprünglich sollte die tote [[Kwêa Timpól (†)]] in Gruppe 1 sein; [[Zamâia Firensis]] beschuldigt sie öffentlich des Verrats.
 - Durch Zamâias Einfluss wechselt Remos schließlich in **Gruppe 1** zu Lisha, Sunny und Elowin.
-- Die anderen Gruppen bestehen unter anderem aus [[Telrim Galoore]] (Gruppe 2), dem [[Fuego-Kollektiv]] (Gruppe 4) und [[Tepêris]] (Gruppe 5).
+- Die anderen Gruppen bestehen unter anderem aus [[Telrim Galoore]] (Gruppe 2), dem [[Fuego-Kollektiv]] (Gruppe 4) und [[Tepêris Firensis]] (Gruppe 5).

@@ -1,2 +1,0 @@
-- Infernis
-- Cousin von [[Remos]]
