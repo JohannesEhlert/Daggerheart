@@ -36,7 +36,7 @@ Gruppe 5 (mit unseren NPCs):
 [[Lyra]]
 [[Êy der Mönch]]
 [[Mikos]]
-
+[[Vellâya Galoore]]
 
 Gruppe 6 - 8:
 Namenlose NPCs

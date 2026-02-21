@@ -78,7 +78,7 @@
 	- Gruppe 2: [[Remos]] kommt (zunächst) in Gruppe 2, zusammen mit [[Telrim Galoore]], [[Zilvorâ]], [[Wo]], [[Pabolo]]
 	- Gruppe 3: [[Giyu Vâresh]], [[Mitel Wedorring]], [[Wippe]], [[Rothé Figure]]
 	- Gruppe 4: Fungril ([[Fuego-Kollektiv]])
-	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**): [[Mikos]], [[Belaia Galoore]], [[Êy der Mönch]], [[Lyra]]
+	- Gruppe 5: [[Tepêris]] sowie 4 weitere Personen, die wir bis zum nächsten Mal ausgestalten sollen (**Hausaufgabe**): [[Mikos]], [[Vellâya Galoore]], [[Êy der Mönch]], [[Lyra]]
 	- [[Zamâia Firensis]] tritt vor und beschuldigt [[Kwêa Timpól (†)]] des Verrats an [[Teppetû]] und verlangt, dass man Beweise gegen sie vorbringe, wer welche habe. Auf ihre Initiative kommt jemand aus einer 5er Gruppe zu Gruppe 1: Remos!
 # Session 3
 ## Szene 1 - Rückblende: [[Lisha]] in der Bibliothek
@@ -109,7 +109,7 @@
 - In der Hand ist ein Zettel, auf den mit Blut der Schriftzug "Die Bombe wird ..." geschrieben steht
 - In seiner Hand steckt [[Vrancâ-Baum|Glimmholz]], weswegen seine Hand leuchtet
 ## Szene 5 - Im Sumpf
-- Begegnen [[Belaia Galoore]], die verletzt ist, weil [[Sumpftiger]] ihre Gruppe angegriffen wurde
+- Begegnen [[Vellâya Galoore]], die verletzt ist, weil [[Sumpftiger]] ihre Gruppe angegriffen wurde
 - [[Lyra]] ist irgendwo reingefallen
 - [[Mikos]] habe etwas gefaselt von einer Bombe und dass die Stadt in Gefahr sei
 - Bittet uns, nach ihrem Bruder [[Telrim Galoore]] zu schauen
