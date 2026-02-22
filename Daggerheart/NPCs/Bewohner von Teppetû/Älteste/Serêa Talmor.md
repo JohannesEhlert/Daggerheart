@@ -1,1 +1,1 @@
-![[Pasted image 20260221141302.png]]
+![[Serêa Talmor.png]]
