@@ -51,3 +51,4 @@
 ## Sumpftiger: 
 - könnten flauschiger und netter sein
 - haben stattdessen ganz schön spitze Zähne 
+- lassen sich von geworfenen Stöcken ablenken = eigentlich nur große Hunde? 
