@@ -19,6 +19,7 @@
 - Remos wirkt Lifeblood Talisman heimlich abseits von den anderen, auf Verlangen von [[Schwert Berethor|Berethor]] 
 - Talisman trägt das aktuelle Wappen der Firensis Familie ![[Firensis Wappen.png]]
 - *eigene Vermutung: verstärkt Berethor die Selbstzweifel in Remos und Arathas die Selbstkritik in Elowin bzw stellt diesen Persönlichkeitsaspekt dar?*
+- Nebel, Lisha ängstlich und überfordert
 - 
 
 # Lorenotizen
