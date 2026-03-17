@@ -8,3 +8,5 @@ Gutes Ansehen ist ihr wichtig, auch für das Geschäft aber nicht nur
 - Steintreppe nach oben
 - knurren von Sumpftigern
 - Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter. 
+
+Emilia 
