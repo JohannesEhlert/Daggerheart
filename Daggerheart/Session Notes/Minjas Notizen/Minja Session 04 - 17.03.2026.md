@@ -3,7 +3,7 @@ Gutes Ansehen ist ihr wichtig, auch für das Geschäft aber nicht nur
 
 ## Sunnys Erinnerung
 
-## In der Ruine
+## In (und auf) der Ruine
 - metallene Überreste
 - Steintreppe nach oben
 - knurren von Sumpftigern
@@ -14,3 +14,8 @@ Emilia
 Dschungel scheint sich ewig zu erstrecken. nur ganz weit in der Ferne Gebirgsketten
 
 weiß gräuliche Blume eher unscheinbar, riecht sehr intensiv, beruhigendes Aroma, Gefühl von Heimat und Genugtuung, 
+
+## Kurzer Kampf mit dem Sumpftiger
+
+
+## Wir steigen hinab in die Ruine 
