@@ -136,3 +136,4 @@
 - [[Remos Firensis]] und [[Lisha Serêa Stormhide|Lisha]] klettern auf die Turmruine und können von dort über die Baumwipfel blicken. Oben spüren sie eine Kraft, die sie am weiterklettern gehindert hätte, wenn der Turm noch höher wäre
 - Der Dschungel scheint sich in alle Richtungen ewig zu erstrecken; nur in weiter Ferne sind Gebirgsketten sichtbar
 - [[Lisha Serêa Stormhide|Lisha]] betrachtet die Pflanzen und eine auf dem Turm hat einen beruhigenden Geruch -> kann womöglich zu Potion of Stress Relief verarbeitet werden
+## Szene 3 - Kampf gegen Sumpf
