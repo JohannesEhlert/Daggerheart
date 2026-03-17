@@ -120,3 +120,19 @@
 - Kommen zu den Ruinen eines Tempels, zu dessen beiden Seiten Bewegung im Wasser/Sumpf ist, aus dem orangefarbene Schuppen herausragen - wie die Rückenschuppen eines [[Sumpftiger]]
 - [[Sunny]] sieht eine Art Balkon, auf den wir uns dank einer Ablenkung von [[Lisha Serêa Stormhide|Lisha]] flüchten können
 
+# Session 4
+## Szene 1 - Rückblende: [[Sunny]] im [[Archiv der Splittertafeln]]
+- Im Archiv der Splittertafeln, einige Monate zuvor
+- [[Sunny]] und [[Luisa]] kommen auf der Suche nach [[Hector]] zum [[Archiv der Splittertafeln]], wo sie ihn finden
+- er zeigt ihnen euphorisch eine neue Apparatur - das Pustephon -, mit der man Luft um eine Splittertafel herumblasen kann. Auf diese Weise lässt sich die [[Stimme der alten Mîhrc]] hörbar machen
+- Sie hören sich einige Stimmen an, aber sie scheinen keinen Bezug zueinander zu haben, sind Bruchstücke von alltäglichen Situationen und ohne Kontext nicht einordbar und daher unklar.
+## Szene 2 - In der Ruine
+- Einige metallische Überbleibsel liegen herum -> Sunny steckt sich 2-3 Stücke ein, die an die Splitter aus dem Archiv erinnern und die filigrane Linien und Strukturen aufweisen
+- Die [[Sumpftiger]] lauern im Sumpf um die Ruine herum
+- In der Ruine befindet sich ein Tunnel, der tief hinab bis unter den Sumpf führt
+- [[Elowin]] überlegt, wie sie [[Schwert Arathas|Arathas]] Hunger befriedigen kann und ob wir uns den Sumpftigern doch annehmen sollen.
+- [[Lisha Serêa Stormhide|Lisha]] möchte kurz entspannen und kontempliert über die Entscheidungen, die sie hierher geführt haben
+- [[Elowin]] leistet ihr Gesellschaft und erzählt ihr von einer Liason, die sie mit [[Emilia]] hatte
+- [[Remos Firensis]] und [[Lisha Serêa Stormhide|Lisha]] klettern auf die Turmruine und können von dort über die Baumwipfel blicken. Oben spüren sie eine Kraft, die sie am weiterklettern gehindert hätte, wenn der Turm noch höher wäre
+- Der Dschungel scheint sich in alle Richtungen ewig zu erstrecken; nur in weiter Ferne sind Gebirgsketten sichtbar
+- [[Lisha Serêa Stormhide|Lisha]] betrachtet die Pflanzen und eine auf dem Turm hat einen beruhigenden Geruch -> kann womöglich zu Potion of Stress Relief verarbeitet werden
