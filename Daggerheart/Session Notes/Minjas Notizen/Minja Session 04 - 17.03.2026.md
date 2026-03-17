@@ -12,3 +12,5 @@ Gutes Ansehen ist ihr wichtig, auch für das Geschäft aber nicht nur
 Emilia 
 
 Dschungel scheint sich ewig zu erstrecken. nur ganz weit in der Ferne Gebirgsketten
+
+weiß gräuliche Blume eher unscheinbar, riecht sehr intensiv, beruhigendes Aroma, Gefühl von Heimat und Genugtuung, 
