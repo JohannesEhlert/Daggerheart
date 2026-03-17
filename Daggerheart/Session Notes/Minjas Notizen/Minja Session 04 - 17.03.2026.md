@@ -19,3 +19,6 @@ weiß gräuliche Blume eher unscheinbar, riecht sehr intensiv, beruhigendes Arom
 
 
 ## Wir steigen hinab in die Ruine 
+
+
+in den Tiefen des Loches liegt etwas, was du auf jeden Fall finden möchtest. Aber ihr seid nicht die einzigen die es finden möchten also solltet ihr euch beeilen.
