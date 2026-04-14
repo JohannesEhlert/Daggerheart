@@ -5,8 +5,11 @@
 - Plattenspieler-Artig, gibt Stimmen wieder indem es einen Luftzug gegen die Splitter leitet (Pustefon)
 
 ## In (und auf) der Ruine
-- knurren von Sumpftigern
-- Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter. 
+- Treppe nach Oben teilweise eingestürzt, müssten klettern
+- draußen Knurren von Sumpftigern
+- Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter 
+- Sunny sammelt ein paar kleine Überreste ein ähnlich wie im Archiv
+- 
 
 
 
