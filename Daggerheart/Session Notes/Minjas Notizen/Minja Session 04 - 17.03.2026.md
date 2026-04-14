@@ -4,30 +4,29 @@
 - neue Erfindung von Hector, hat die ganze Nacht daran gearbeitet
 - Plattenspieler-Artig, gibt Stimmen wieder indem es einen Luftzug gegen die Splitter leitet (Pustefon)
 
-## In (und auf) der Ruine
+## In der Ruine
 - Treppe nach Oben teilweise eingestürzt, müssten klettern
 - draußen Knurren von Sumpftigern
 - Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter 
 - Sunny sammelt ein paar kleine Überreste ein ähnlich wie im Archiv
-- 
+- Elowin will Arathas Hunger mit einem Sumpftiger stillen
+- Remos und Lisha wollen nach oben auf den Turm klettern
+- vorher will Lisha sich jedoch einen kurzen Moment ausruhen
+- Elowin erzählt Lisha von ihren geheimen Treffen mit Emilia
 
+## Auf der Ruine
+- Lisha und Remos klettern hinauf, oben spürt man eine Kraft die einen daran hindert, weiter hinauf zu können 
+- Dschungel scheint sich ewig zu erstrecken, nur ganz weit in der Ferne Gebirgsketten
+- unser Ziel nicht sichtbar (war zu erwarten)
+- Lisha sammelt weiß gräuliche Blume ein, eher unscheinbar, riecht sehr intensiv, beruhigendes Aroma, Gefühl von Heimat 
+- Remos erzählt, dass er evtl. nach Elixierbergung nicht in Teppetu bleiben möchte
 
-
-
-Elowin erzählt Lisha von geheimer Liebe, Emilia
-
-Dschungel scheint sich ewig zu erstrecken. nur ganz weit in der Ferne Gebirgsketten. Ziel nicht sichtbar
-
-weiß gräuliche Blume eher unscheinbar, riecht sehr intensiv, beruhigendes Aroma, Gefühl von Heimat 
-
-Remos möchte evtl. nach Elixierbergung nicht in Teppetu bleiben
-
-
-## Kurzer Kampf mit dem Sumpftiger
+## Neben der Ruine
+- Kurzer Kampf mit den Sumpftigern
 wtf
 
 
-## Wir steigen hinab in die Ruine 
+## Unter der Ruine 
 
 _in den Tiefen des Loches liegt etwas, was du auf jeden Fall finden möchtest. Aber ihr seid nicht die einzigen die es finden möchten also solltet ihr euch beeilen._
 
