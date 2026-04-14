@@ -1,8 +1,5 @@
-Luisa nüchtern, hager, gepflegte lange braune Haare mit weißen Strähnen
-Gutes Ansehen ist ihr wichtig, auch für das Geschäft aber nicht nur
-
-## Sunnys Erinnerung
-- metallene Überreste
+## Sunnys Erinnerung - Archiv der Splittertafeln
+- metallene Überreste hängen an Seilen in der Luft - fast wie ein Windspiel
 - Steintreppe nach oben
 - knurren von Sumpftigern
 - Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter. 
