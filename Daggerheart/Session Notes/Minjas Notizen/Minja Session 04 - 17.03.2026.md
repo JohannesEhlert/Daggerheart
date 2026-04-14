@@ -1,6 +1,10 @@
 ## Sunnys Erinnerung - Archiv der Splittertafeln
 - metallene Überreste hängen an Seilen in der Luft - fast wie ein Windspiel
-- Steintreppe nach oben
+- Ruine, nur eine Wand
+- neue Erfindung von Hector, hat die ganze Nacht daran gearbeitet
+
+
+
 - knurren von Sumpftigern
 - Loch im Boden was in die Etage unter uns führt aber scheinbar auch noch weiter. 
 
