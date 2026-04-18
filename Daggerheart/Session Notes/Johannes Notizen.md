@@ -140,3 +140,8 @@
 
 # Session 5
 ## Szene 1 - Alptraum-Recap von Remos
+- Remos werden von seiner Waffe verschiedene alternative Varianten der bisherigen Geschehnisse präsentiert
+## Szene 2 - Hinab ins Loch
+- Klettern [[Lisha Serêa Stormhide|Lisha]] hinterher, die von dem [[Ohrenpflanzending]] weggeschleift und angebissen wird
+- Wir eilen hinterher durch dunkle Gänge, in denen Pfützen sind
+- Kommen in eine Höhle, in der [[Vrancâ-Baum|Glimmholz]] an der Decke die Szenerie erhellt
