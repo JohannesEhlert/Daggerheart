@@ -145,3 +145,4 @@
 - Klettern [[Lisha Serêa Stormhide|Lisha]] hinterher, die von dem [[Ohrenpflanzending]] weggeschleift und angebissen wird
 - Wir eilen hinterher durch dunkle Gänge, in denen Pfützen sind
 - Kommen in eine Höhle, in der [[Vrancâ-Baum|Glimmholz]] an der Decke die Szenerie erhellt
+- Werden von hässlichen Kreaturen angegriffen, die uns beißen und wegschleifen wollen bzw. die Giftsporen spucken
