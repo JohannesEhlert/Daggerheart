@@ -149,3 +149,7 @@
 ## Szene 3 - Spurensuche in der Höhle
 - Sporen sind parasitäre Pflanzen, die sich pur von Energie ernähren können
 - Es gibt wohl irgendwo eine Mutter-Pflanze, die die [[Vrancâ-Baum]]e angreift
+## Szene 4 - Der [[Vrancâ-Baum|Hain im Untergrund]]
+- Gelangen in eine riesige Höhle, in der viele [[Vrancâ-Baum]]e wachsen
+- Dort haben die [[Kapkéhz Dim]] aus Gruppe 2 gerade gegen [[Kelrâz (Ohrenpflanzending)]] gekämpft
+- In der Mitte ragt eine Satelitenschüsselartige Konstruktion auf
