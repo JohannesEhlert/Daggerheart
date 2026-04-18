@@ -146,3 +146,6 @@
 - Wir eilen hinterher durch dunkle Gänge, in denen Pfützen sind
 - Kommen in eine Höhle, in der [[Vrancâ-Baum|Glimmholz]] an der Decke die Szenerie erhellt
 - Werden von hässlichen Kreaturen angegriffen, die uns beißen und wegschleifen wollen bzw. die Giftsporen spucken
+## Szene 3 - Spurensuche in der Höhle
+- Sporen sind parasitäre Pflanzen, die sich pur von Energie ernähren können
+- Es gibt wohl irgendwo eine Mutter-Pflanze, die die [[Vrancâ-Baum]]e angreift
