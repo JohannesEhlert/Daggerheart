@@ -137,3 +137,6 @@
 - Der Dschungel scheint sich in alle Richtungen ewig zu erstrecken; nur in weiter Ferne sind Gebirgsketten sichtbar
 - [[Lisha Serêa Stormhide|Lisha]] betrachtet die Pflanzen und eine auf dem Turm hat einen beruhigenden Geruch -> kann womöglich zu Potion of Stress Relief verarbeitet werden
 ## Szene 3 - Kampf gegen Sumpf
+
+# Session 5
+## Szene 1 - Alptraum-Recap von Remos
