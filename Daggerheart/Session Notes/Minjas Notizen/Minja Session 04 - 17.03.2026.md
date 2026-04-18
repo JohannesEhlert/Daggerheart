@@ -25,11 +25,14 @@
 - Kurzer Kampf mit den Sumpftigern
 - die Tiger können klettern
 - Elowin gibt dem Tiger jedoch wirklich keinerlei Chance
-- 
 
 
 ## Unter der Ruine 
-
-_in den Tiefen des Loches liegt etwas, was du auf jeden Fall finden möchtest. Aber ihr seid nicht die einzigen die es finden möchten also solltet ihr euch beeilen._
-
+Buch: _In den Tiefen des Loches liegt etwas, was du auf jeden Fall finden möchtest. Aber ihr seid nicht die einzigen die es finden möchten also solltet ihr euch beeilen._
+- etwas runter werfen: tief! Und unten scheint Wasser zu sein
+- wir klettern hinab
+- Dunkelheit, Lisha hält mit einer Hand die Fackel 
+- schwierige Kletterpartie, irgendwann verliert Lisha die Kraft
+- Fall! 
+- Ohren-Pflanzen-Dings 
 
