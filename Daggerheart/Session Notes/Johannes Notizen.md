@@ -162,3 +162,5 @@
 - [[Elowin]] bereitet ein Geschenk für ihren künfigten Bräutigam vor und ihre Mutter droht ihr, dass sie aus der Familie verstoßen würde, sollte sie die Ehe ablehnen
 ## Szene 2 - Die Rast
 - Nach dem Ritual, in dem [[Elowin]] den Weg der anderen Gruppe verfolgt, kommt sie zu [[Sunny]] und berichtet ihm, dass ihr davor graut, ihrer Mutter zu erzählen, dass [[Telrim Galoore]] verschwunden ist und dass sie glaubt, ihre Mutter würde es ihr nie verzeihen.
+## Szene 3 - Weg zur Kuppel
+- Besteigen die [[Vrancâ-Baum]]e, die überall Zeichen des Verfalls zeigen.
