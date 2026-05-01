@@ -162,5 +162,9 @@
 - [[Elowin]] bereitet ein Geschenk für ihren künfigten Bräutigam vor und ihre Mutter droht ihr, dass sie aus der Familie verstoßen würde, sollte sie die Ehe ablehnen
 ## Szene 2 - Die Rast
 - Nach dem Ritual, in dem [[Elowin]] den Weg der anderen Gruppe verfolgt, kommt sie zu [[Sunny]] und berichtet ihm, dass ihr davor graut, ihrer Mutter zu erzählen, dass [[Telrim Galoore]] verschwunden ist und dass sie glaubt, ihre Mutter würde es ihr nie verzeihen.
-## Szene 3 - Weg zur Kuppel
+## Szene 3 - Die Kuppel
 - Besteigen die [[Vrancâ-Baum]]e, die überall Zeichen des Verfalls zeigen.
+- Kommen zur Anlage/Kuppel an der Spitze.
+- Alte Technik, die von Elixier betrieben wird/wurde
+- [[Zilvorâ]] hat wohl Elixier gefunden und mitgenommen. Sie ist dann durch den einen der zwei Teleporter geflohen, hat [[Pabolo]] und [[Wo]] zurückgelassen und den Teleporter offenbar von der anderen Seite aus zerstört.
+- 
