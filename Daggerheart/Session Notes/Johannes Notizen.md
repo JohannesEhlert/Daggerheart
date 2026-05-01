@@ -156,3 +156,8 @@
 - [[Telrim Galoore]]s Gruppe bahnt sich ihren Weg zur Kuppel - wollen keine Hilfe von uns. 
 - Wir rasten, während die andere Gruppe sich unter harten Verlusten zum Ziel vorarbeitet. [[Telrim Galoore]] stürzt in die Tiefe und verschwindet.
 # Session 6
+## Szene 1 - Rückblende Elowin & ihre Mutter
+- Gerüchte über Elowin
+- Gerüchte über [[Remos Firensis|Remos]], der laut [[Zamâia Firensis]] keine reinen Gedanken und kein reines Blut habe
+- [[Elowin]] bereitet ein Geschenk für ihren künfigten Bräutigam vor und ihre Mutter droht ihr, dass sie aus der Familie verstoßen würde, sollte sie die Ehe ablehnen
+## Szene 2 - 
