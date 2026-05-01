@@ -166,5 +166,6 @@
 - Besteigen die [[Vrancâ-Baum]]e, die überall Zeichen des Verfalls zeigen.
 - Kommen zur Anlage/Kuppel an der Spitze.
 - Alte Technik, die von Elixier betrieben wird/wurde
+- [[Lisha Serêa Stormhide|Lisha]] findet Aufzeichnungen zu Teleportern - einer geht nach oben, einer nach unten zur Urwurzel.
 - [[Zilvorâ]] hat wohl Elixier gefunden und mitgenommen. Sie ist dann durch den einen der zwei Teleporter geflohen, hat [[Pabolo]] und [[Wo]] zurückgelassen und den Teleporter offenbar von der anderen Seite aus zerstört.
-- 
+- Im Nebenraum war eine Art Speicher, den [[Zilvorâ]] offenbar mitgenommen hat. Außerdem findet [[Sunny]] einen Konverter, der wohl zur Herstellung von Elixier genutzt wurde
