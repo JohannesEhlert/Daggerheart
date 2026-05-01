@@ -153,3 +153,6 @@
 - Gelangen in eine riesige Höhle, in der viele [[Vrancâ-Baum]]e wachsen
 - Dort haben die [[Kapkéhz Dim]] aus Gruppe 2 gerade gegen [[Kelrâz (Ohrenpflanzending)]] gekämpft
 - In der Mitte ragt eine Satelitenschüsselartige Konstruktion auf
+- [[Telrim Galoore]]s Gruppe bahnt sich ihren Weg zur Kuppel - wollen keine Hilfe von uns. 
+- Wir rasten, während die andere Gruppe sich unter harten Verlusten zum Ziel vorarbeitet. [[Telrim Galoore]] stürzt in die Tiefe und verschwindet.
+# Session 6
