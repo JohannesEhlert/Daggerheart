@@ -173,4 +173,4 @@
 ## Szene 4 - Ankunft in der Tiefe
 - Luft ist schwer für alle, aber Sunny wird geistig klarer und präsenter
 - Folgen den Wurzeln in eine Richtung, aus denen Sporen zu strömen scheinen
-- [[Lisha Serêa Stormhide|Lisha]] erinnert sich: Notfallplan hieß Projekt B0mbe [[Betheor]]
+- [[Lisha Serêa Stormhide|Lisha]] erinnert sich: Notfallplan hieß Projekt B0mbe, ausgeschrieben etwas mit [[Betheor]], dem Ältesten.
