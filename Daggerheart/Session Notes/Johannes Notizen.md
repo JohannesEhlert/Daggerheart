@@ -157,7 +157,8 @@
 - Wir rasten, während die andere Gruppe sich unter harten Verlusten zum Ziel vorarbeitet. [[Telrim Galoore]] stürzt in die Tiefe und verschwindet.
 # Session 6
 ## Szene 1 - Rückblende Elowin & ihre Mutter
-- Gerüchte über Elowin
+- Gerüchte über [[Elowin]]
 - Gerüchte über [[Remos Firensis|Remos]], der laut [[Zamâia Firensis]] keine reinen Gedanken und kein reines Blut habe
 - [[Elowin]] bereitet ein Geschenk für ihren künfigten Bräutigam vor und ihre Mutter droht ihr, dass sie aus der Familie verstoßen würde, sollte sie die Ehe ablehnen
-## Szene 2 - 
+## Szene 2 - Die Rast
+- Nach dem Ritual, in dem [[Elowin]] den Weg der anderen Gruppe verfolgt, kommt sie zu [[Sunny]] und berichtet ihm, dass ihr davor graut, ihrer Mutter zu erzählen, dass [[Telrim Galoore]] verschwunden ist und dass sie glaubt, ihre Mutter würde es ihr nie verzeihen.
