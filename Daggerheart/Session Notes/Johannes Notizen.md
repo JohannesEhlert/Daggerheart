@@ -169,6 +169,8 @@
 - [[Lisha Serêa Stormhide|Lisha]] findet Aufzeichnungen zu Teleportern - einer geht nach oben, einer nach unten zur Urwurzel.
 - [[Zilvorâ]] hat wohl Elixier gefunden und mitgenommen. Sie ist dann durch den einen der zwei Teleporter geflohen, hat [[Pabolo]] und [[Wo]] zurückgelassen und den Teleporter offenbar von der anderen Seite aus zerstört.
 - Im Nebenraum war eine Art Speicher, den [[Zilvorâ]] offenbar mitgenommen hat. Außerdem findet [[Sunny]] einen Konverter, der wohl zur Herstellung von Elixier genutzt wurde
-- Entscheidung: Wir nehmen den Teleporter nach unten, um nach [[Telrim Galoore]] und der Urwurzel zu sehen, anstatt dem Elixier und [[Zilvorâ]] nachzujagen.
+- **Entscheidung:** Wir nehmen den Teleporter nach unten, um nach [[Telrim Galoore]] und der Urwurzel zu sehen, anstatt dem Elixier und [[Zilvorâ]] nachzujagen.
 ## Szene 4 - Ankunft in der Tiefe
-- Luft ist schwer
+- Luft ist schwer für alle, aber Sunny wird geistig klarer und präsenter
+- Folgen den Wurzeln in eine Richtung, aus denen Sporen zu strömen scheinen
+- [[Lisha Serêa Stormhide|Lisha]] erinnert sich: Notfallplan hieß Projekt B0mbe [[Betheor]]
