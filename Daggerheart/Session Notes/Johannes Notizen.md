@@ -174,3 +174,10 @@
 - Luft ist schwer für alle, aber Sunny wird geistig klarer und präsenter
 - Folgen den Wurzeln in eine Richtung, aus denen Sporen zu strömen scheinen
 - [[Lisha Serêa Stormhide|Lisha]] erinnert sich: Notfallplan hieß Projekt B0mbe, ausgeschrieben etwas mit [[Betheor]], dem Ältesten.
+
+# Session 7
+## Szene 1 - Rückblende: Sunny
+- 
+## Szene 2- In der Tiefe
+- gehen weiter durch die Sporen
+- 
