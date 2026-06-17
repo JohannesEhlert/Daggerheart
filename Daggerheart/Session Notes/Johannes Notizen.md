@@ -180,4 +180,11 @@
 - 
 ## Szene 2- In der Tiefe
 - gehen weiter durch die Sporen
-- 
+- [[Elowin]], [[Remos Firensis|Remos]] und [[Lisha Serêa Stormhide|Lisha]] haben kurzzeitig Bewusstseins-Aussetzer
+- Finden [[Telrim Galoore]], der von den Sporen vernebelt ist, aber [[Elowin]] kann ihn zur Besinnung bringen
+- Hören Hilferuf von [[Êy der Mönch]]
+- [[Telrim Galoore]] will lieber fliehen, aber [[Elowin]] schüchtert ihn erfolgreich ein und wir eilen zur Hilfe
+## Szene 3 - Die vier Blumen
+- Kommen an einen Ort mit vier seltsamen übergroßen Blüten. Weiter hinten ist eine bunt leuchtende Pflanze
+- [[Êy der Mönch]] und Lira (beide aus Gruppe 5) werden dort gerade von den Blüten verschluckt
+- Dort ist auch ein pechschwarzes Pflanzenmonster
