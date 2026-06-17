@@ -187,4 +187,13 @@
 ## Szene 3 - Die vier Blumen
 - Kommen an einen Ort mit vier seltsamen übergroßen Blüten. Weiter hinten ist eine bunt leuchtende Pflanze
 - [[Êy der Mönch]] und Lira (beide aus Gruppe 5) werden dort gerade von den Blüten verschluckt
-- Dort ist auch ein pechschwarzes Pflanzenmonster
+- Dort ist auch ein pechschwarzes Pflanzenmonster, das wir bekämpfen
+- Lira und [[Êy der Mönch]] stellen sich gegen uns, und Lira stirbt.
+## Szene 4 - Rückblende Sunny 2.
+- Sunnys erwachen
+- zwei Personen mit Geweihen und Flügeln - aus dem Hause Firensis?
+- Zu dieser Zeit ist Sunny noch in bestem Zustand
+- Bruder ist gescheitert beim Überwachen der Urwurzel, aus der sie ihre Energie beziehen; hat Parasiten erschaffen um sie zu korrumpieren
+- Sunny erhält den Befehl, sich zu zerlegen, und sieht woraus er besteht und das reine Elixir, das in ihm floß
+- Er bewahrt aber ein Stück seiner Hand, in das er einen Schriftzug eingraviert, vor der Zerstörung
+- 
