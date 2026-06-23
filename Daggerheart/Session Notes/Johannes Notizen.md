@@ -196,4 +196,5 @@
 - Bruder ist gescheitert beim Überwachen der Urwurzel, aus der sie ihre Energie beziehen; hat Parasiten erschaffen um sie zu korrumpieren
 - Sunny erhält den Befehl, sich zu zerlegen, und sieht woraus er besteht und das reine Elixir, das in ihm floß
 - Er bewahrt aber ein Stück seiner Hand, in das er einen Schriftzug eingraviert, vor der Zerstörung
-- 
+# Session 8
+## Session 1
