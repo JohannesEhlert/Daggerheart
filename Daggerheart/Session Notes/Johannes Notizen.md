@@ -197,11 +197,17 @@
 - Sunny erhält den Befehl, sich zu zerlegen, und sieht woraus er besteht und das reine Elixir, das in ihm floß
 - Er bewahrt aber ein Stück seiner Hand, in das er einen Schriftzug eingraviert, vor der Zerstörung
 # Session 8
-## Session 1 - Auf der Lichtung
+## Szene 1 - Auf der Lichtung
 - Sporen ziehen sich zurück
 - In der Ferne ist die Urwurzel - im Kern noch bunt-leuchtend, aber ihre Wurzeln werden immer schwärzer, je weiter man von ihr entfernt ist
 - An ihrem Fuß ist eine Struktur aus Metall
 - Machen eine kurze Rast
 	- [[Lisha Serêa Stormhide|Lisha]] und [[Sunny]] untersuchen die Notizen:
-		- Was schief gegangen ist: Karmat hat seine Aufgabe, die Urwurzel zu pflegen, zu gut gemacht und das System überladen. Dadurch ist der Dschungel entstanden und das Imperium von [[Mîhrc]] niedergegangen.
+		- Was schief gegangen ist: [[Kâmat]] hat seine Aufgabe, die Urwurzel zu pflegen, zu gut gemacht und das System überladen. Dadurch ist der Dschungel entstanden und das Imperium von [[Mîhrc]] niedergegangen.
 		- Sicherheitsprotokoll: Betheor sollte, falls etwas schief geht, alles hier unten zerstören sollen - durch eine Selbstexplosion
+## Szene 2 - An der Urwurzel
+- Pollen haben sich nun zurückgezogen
+- Dämmriges Licht kommt von weit oben
+- Luft riecht nach Konkurrenzkampf zwischen prächtiger Blumenwiese und verdorbenem Fleisch
+- In der Mitte ist eine Metallkuppel, die von Ranken umwuchert wird, für die die Kuppel offenbar nährreicher Boden zu sein
+- Auch in der Metallkuppel sind Pflanzen - und auch Pollen
