@@ -197,4 +197,7 @@
 - Sunny erhält den Befehl, sich zu zerlegen, und sieht woraus er besteht und das reine Elixir, das in ihm floß
 - Er bewahrt aber ein Stück seiner Hand, in das er einen Schriftzug eingraviert, vor der Zerstörung
 # Session 8
-## Session 1
+## Session 1 - Auf der Lichtung
+- Sporen ziehen sich zurück
+- In der Ferne ist die Urwurzel - im Kern noch bunt-leuchtend, aber ihre Wurzeln werden immer schwärzer, je weiter man von ihr entfernt ist
+- An ihrem Fuß ist eine Struktur aus Metall
