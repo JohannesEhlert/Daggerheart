@@ -201,3 +201,7 @@
 - Sporen ziehen sich zurück
 - In der Ferne ist die Urwurzel - im Kern noch bunt-leuchtend, aber ihre Wurzeln werden immer schwärzer, je weiter man von ihr entfernt ist
 - An ihrem Fuß ist eine Struktur aus Metall
+- Machen eine kurze Rast
+	- [[Lisha Serêa Stormhide|Lisha]] und [[Sunny]] untersuchen die Notizen:
+		- Was schief gegangen ist: Karmat hat seine Aufgabe, die Urwurzel zu pflegen, zu gut gemacht und das System überladen. Dadurch ist der Dschungel entstanden und das Imperium von [[Mîhrc]] niedergegangen.
+		- Sicherheitsprotokoll: Betheor sollte, falls etwas schief geht, alles hier unten zerstören sollen - durch eine Selbstexplosion
